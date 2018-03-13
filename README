@@ -1,0 +1,5 @@
+# UNIX Signal Catcher
+
+This is a small program that catches UNIX signals and prints them to STDOUT.
+The Docker image can be used to debug graceful termination or similar use cases.
+
